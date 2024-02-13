@@ -1,0 +1,22 @@
+html, body {
+    width: 50%;
+    margin: 0 auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.logo {
+    display: inline-block;
+}
+.logo img {
+    max-width: 50px;
+    max-width: auto;
+    vertical-align: middle;
+
+}
+#container {
+    width: 360px;
+}
+.taskField {
+    margin: 25px;
+}
+
